@@ -1,2 +1,2 @@
 # merge_conflicts
-This is comment 1
+This is comment 2
